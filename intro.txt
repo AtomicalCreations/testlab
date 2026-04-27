@@ -1,2 +1,3 @@
 Hello World!
 I am John Munoz and my major is Information Technology.
+And I am Michael Glass - Computer Science
